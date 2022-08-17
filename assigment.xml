@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<eletronic>
+<category>
+<mobile>
+<sumsung>
+<model> &quot;iphone 13 pro max</model>
+<price>20000</price>
+<colour>white</colour>
+<memory>1000gp</memory>
+<os>android</os>
+<camera>64px</camera>
+<screensize>350px</screensize>
+<description>long lastting bettary more memory </description>
+<ratting>5/5</ratting>
+</sumsung>
+<sumsung>
+<model> &quot;Ao2</model>
+<price> 2000</price>
+<colour>blue</colour>
+<memory>500gp</memory>
+<os>android</os>
+<camera>64px</camera>
+<screensize>350px</screensize>
+<description>long lastting bettary </description>
+<ratting>5/3.5</ratting>
+</sumsung>
+<apple>
+<model>S22</model>
+<price>297,999</price>
+<colour>white</colour>
+<memory>1000gp</memory>
+<os>IOS 15, upgradable to iOS 15.3  
+</os>
+<camera>Quad Camera: 12 MP, f/1.5, 26mm (wide), 1.9Âµm, dual pixel PDAF, sensor-shift OIS + 12 MP, f/2.8, 77mm (telephoto), PDAF, OIS, 3x optical zoom + 12 MP, f/1.8, 13mm, (ultrawide), PDAF + TOF 3D LiDAR scanner (depth), dual-LED dual-tone flash   </camera>
+<screensize>350px</screensize>
+<description>Fast charging (23W, unofficial rating), 50% in 30 min (advertised), USB Power Delivery 2.0, MagSafe wireless charging 15W, Qi magnetic fast wireless charging 7.5W   </description>
+<ratting>5/4</ratting>
+</apple>
+<Samsung >
+<model> &quot;Galaxy S22</model>
+<price>205,999</price>
+<colour>white</colour>
+<memory>	256 GB</memory>
+<os>android</os>
+<camera>64px</camera>
+<screensize>350px</screensize>
+<description>long lastting bettary </description>
+<ratting>5/5</ratting>
+</Samsung >
+<sumsung>
+<model> iphone 14 pro max</model>
+<price>20000</price>
+<colour>Black</colour>
+<memory>1000gp</memory>
+<os>android</os>
+<camera>700px</camera>
+<screensize>350px</screensize>
+<description>long lastting bettary more memory </description>
+<ratting>5/5</ratting>
+</sumsung>
+</mobile>
+</category>
+<category>
+<laptop>
+<hp>
+<model>hp</model>
+<price> 34,900</price>
+<colour>white</colour>
+<memory>5000mb</memory>
+<screensize>350px</screensize>
+<description>long lastting bettary more space </description>
+<ratting>5/5</ratting>
+</hp>
+
+<sumsung>
+<model>HP</model>
+<price> 34,900</price>
+<colour>white</colour>
+<memory>5000mb</memory>
+<screensize>350px</screensize>
+<description>long lastting bettary more space </description>
+<ratting>5/5</ratting>
+
+</sumsung>
+
+<lenovo>
+<model>HP</model>
+<price> 34,900</price>
+<colour>white</colour>
+<memory>5000mb</memory>
+<screensize>350px</screensize>
+<description>long lastting bettary more space </description>
+<ratting>5/5</ratting>
+</lenovo>
+
+<apple>
+<model>HP</model>
+<price> 34,900</price>
+<colour>white</colour>
+<memory>5000mb</memory>
+<screensize>350px</screensize>
+<description>long lastting bettary more space </description>
+<ratting>5/5</ratting>
+</apple>
+
+<Buyacer>
+<model>HP</model>
+<price> 34,900</price>
+<colour>white</colour>
+<memory>5000mb</memory>
+<screensize>350px</screensize>
+<description>long lastting bettary more space </description>
+<ratting>5/5</ratting>
+
+</Buyacer>
+
+
+<Asus>
+<model>HP</model>
+<price> 34,900</price>
+<colour>white</colour>
+<memory>5000mb</memory>
+<screensize>350px</screensize>
+<description>long lastting bettary more space </description>
+<ratting>5/5</ratting>
+</Asus>
+</laptop>
+</category>
+
+</eletronic>
