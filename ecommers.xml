@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Ecommerce>
+
+<!-- <Electronic> -->
+
+<Electronic xmlns:LEDTV="https://www.ishopping.pk/itel-40-hd-led-tv-dmz1.html" xmlns:camera="https://www.ishopping.pk/canon-eos-m50-mark-ii-with-15-45mm-lens-black-pa.html" xmlns:watch="https://www.ishopping.pk/haylou-gs-22mm-smartwatch-black-price-in-pakistan.html" >
+
+<LEDTV:product>
+<name>LEDTV</name>
+<price>RS:50000</price>
+<description>iShopping.pk brings you the best price for Itel 40" HD LED TV with official warranty and express shipping all over Pakistan.
+
+ </description>
+
+</LEDTV:product>
+
+<camera:product>
+<name>Canon EOS M50 Mark (camera)</name>
+<price>PKR 149,999</price>
+<description>iShopping.pk brings you the best price for Canon EOS M50 Mark II With 15-45mm Lens (Black) with express shipping all over Pakistan.
+
+ </description>
+
+</camera:product>
+
+<watch:product>
+<name>Haylou GS 22mm Smartwatch - Black</name>
+<price>PKR 7,493</price>
+<description>iShopping.pk brings you the best price for Haylou GS 22mm Smartwatch - Black with express shipping all over Pakistan.
+ </description>
+</watch:product>
+
+</Electronic>
+<!-- <homeappliances> -->
+
+<homeappliances xmlns:grinderandmixture="https://www.ishopping.pk/sencor-fruit-juicer-sje-1055ss-price-in-pakistan" xmlns:Inverter="https://www.ishopping.pk/dawlance-chrome-inverter-"  xmlns:Generator="shopping.pk/jasco-self-start-petrol-1-2-kw-generator">
+
+<grinderandmixture:product>
+<name>Fruit Juicer </name>
+<price>PKR 21,761</price>
+<description>iShopping.pk brings you the best price for Sencor Fruit Juicer (SJE-1055SS) with express shipping all over pakistan.
+
+ </description>
+</grinderandmixture:product>
+
+<Inverter:product>
+<name>Dawlance Chrome Inverter</name>
+<price>PKR 130,300</price>
+<description>iShopping.pk brings you the best price for Dawlance Chrome Inverter 30 Split Heat  Cool Air Conditioner 1.5 Ton Matte Grey with official warranty and express shipping all over Pakistan.
+
+ </description>
+</Inverter:product>
+
+<Generator:product>
+<name>Jasco Self Start Generator</name>
+<price>PKR 58,000</price>
+<description>iShopping.pk brings you the best price for Jasco Self Start Petrol 1.2 KW Generator (J1900) with express shipping all over Pakistan.</description>
+</Generator:product>
+</homeappliances>
+
+<!-- <Mensfashion> -->
+
+<Mensfashion xmlns:Waistcoat="https://www.ishopping.pk/khas-store-waistcoat-for-men-mustard" xmlns:FormalShoes="https://www.ishopping.pk/sage-leather-formal-shoes-for-men-brown" xmlns:CardHolder="https://www.ishopping.pk/sage-leather-slim-card-holder-for-men-maroon">
+
+<Waistcoat:product>
+<name>Khas Store Waistcoat (mustard)</name>
+<price>PKR 3,849</price>
+<description>iShopping.pk brings you the best price for Khas Store Waistcoat For Men Mustard (WWC-8000) with express shipping all over Pakistan.
+
+ </description>
+</Waistcoat:product>
+
+<FormalShoes:product>
+<name>Sage Leather Formal Shoes(brown)</name>
+<price>PKR 2,659</price>
+<description>iShopping.pk brings you the best price for Sage Leather Formal Shoes For Men Brown (300005) with express shipping all over Pakistan.</description>
+</FormalShoes:product>
+
+<CardHolder:product>
+<name>Sage Leather Slim Card Holder(maroon)</name>
+<price>700</price>
+<description>iShopping.pk brings you the best price for Sage Leather Slim Card Holder For Men Maroon (37309) with express shipping all over Pakistan.
+
+ </description>
+</CardHolder:product>
+</Mensfashion>
+
+<!-- <Womenfastion> -->
+
+<Womenfastion xmlns:EmbroideredLawn="https://www.ishopping.pk/florent-embroidered-unstitched-3-piece-suit" xmlns:jewellary="https://www.ishopping.pk/onlineshopnow-beautiful-hand-bracelet-for-women" xmlns:womenbags="shopping.pk/rg-shop-most-demanding-cloud-bags-for-women-black">
+
+<EmbroideredLawn:product>
+<name>Florent Embroidered Unstitched Lawn(red colour)</name>
+<price>PKR 4,390</price>
+<description>iShopping.pk brings you the best price for Florent Embroidered Unstitched Lawn 3 Piece Suit Peach (F-1A) with express shipping all over Pakistan.
+
+</description>
+</EmbroideredLawn:product>
+
+<jewellary:product>
+<name>Beautiful Hand Bracelet</name>
+<price>PKR 1,899</price>
+<description>iShopping.pk brings you the best price for OnlineShopNow Beautiful Hand Bracelet For Women with express shipping all over Pakistan.
+
+</description>
+</jewellary:product>
+
+<womenbags:product>
+<name>womenbags:(black)</name>
+<price>PKR 1,199</price>
+<description>iShopping.pk brings you the best price for RG Shop Most Hand Bags For Women Black with express shipping all over Pakistan.
+</description>
+</womenbags:product>
+</Womenfastion>
+
+<!-- <sport> -->
+
+<sport xmlns:shakerbottle="https://www.ishopping.pk/kuality-mart-3-in-1-spider-protein-shaker-bottle" xmlns:CricketBat="https://www.ishopping.pk/sport-s-co-nb-tennis-ball-cricket-bat-price-in-pakistan.html"  xmlns:football="https://www.ishopping.pk/blue-hawk-adidas-football">
+
+<shakerbottle:product>
+<name>Protein Shaker Bottle</name>
+<price>PKR 800</price>
+<description>iShopping.pk brings you the best price for Kuality Mart 3 in 1 Spider Protein Shaker Bottle 500ml with express shipping all over Pakistan.
+
+</description>
+</shakerbottle:product>
+
+<CricketBat:product>
+<name> Tennis Ball Cricket Bat</name>
+<price>PKR 870</price>
+<description>iShopping.pk brings you the best price for Sport's Co NB Tennis Ball Cricket Bat with express shipping all over Pakistan.
+
+</description>
+</CricketBat:product>
+
+<football:product>
+<name>Blue Hawk Adidas Football</name>
+<price>PKR 1,450</price>
+<description>iShopping.pk brings you the best price for Blue Hawk Adidas Football with express shipping all over Pakistan.
+
+</description>
+</football:product>
+
+</sport>
+
+
+
+</Ecommerce>
